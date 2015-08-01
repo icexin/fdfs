@@ -1,3 +1,4 @@
+// Package fdfs implements fastdfs client
 package fdfs
 
 import (
