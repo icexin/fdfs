@@ -5,4 +5,4 @@ This is a pure go client library for [fastdfs](http://github.com/happyfish100/fa
 Usage
 =====
 
-See http://godoc.org/github.com/fanbingxin/fdfs
+See http://godoc.org/github.com/icexin/fdfs
